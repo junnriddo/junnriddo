@@ -1,28 +1,37 @@
-<!-- Profile Header -->
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Arjoen+👋;Student+Developer+💻;Creative+Thinker+🎨;Future+Fullstack+Engineer+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Arjoen+👋;Student+Developer+💻;Creative+Thinker+🎨;Future+Fullstack+Engineer+🚀" alt="Typing Animation" />
 
 </div>
 
 ---
 
-## <div align="center">💻 About Me</div>
+## 💻 About Me
 
 <div align="center">
-I'm a student who loves building modern web experiences.  
-I turn ideas into interactive realities using **Laravel**, **JavaScript**, and **MySQL**.  
-Currently learning, improving, and pushing limits every day ⚡
+
+I'm a passionate student developer who loves creating modern web experiences.  
+I enjoy turning ideas into reality through **Laravel**, **JavaScript**, and **MySQL**.  
+Focused on building clean, efficient, and creative solutions ⚡
+
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧠 Tech Stack
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,figma,html,css,git&perline=8" alt="Tech Stack" />
-  
+
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Figma](https://skillicons.dev/icons?i=figma)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
+
 </div>
 
 <div align="center">
@@ -33,20 +42,20 @@ Currently learning, improving, and pushing limits every day ⚡
 
 ## 🚀 Current Focus
 
-- Building dynamic apps with **Laravel + JS**
-- Designing beautiful UI in **Figma**
-- Writing cleaner and smarter code ✨
-- Leveling up every single day 💪
+- Building dynamic apps using **Laravel + JavaScript**
+- Designing clean interfaces with **Figma**
+- Learning backend optimization and better architecture  
+- Growing discipline and creativity every day 💪
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=junnriddo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=junnriddo&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnriddo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=junnriddo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=junnriddo&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnriddo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
@@ -56,13 +65,13 @@ Currently learning, improving, and pushing limits every day ⚡
 
 <div align="center">
 
-When I’m not coding, I’m out there staying active & inspired:
+When I’m not coding, you’ll probably find me doing things I love:
 
-⚽ **Futsal** & **Football**  
-🏃 Running to refresh my mind  
-🎮 Gaming: *Mobile Legends*, *Valorant*, *PUBG*  
+⚽ **Playing futsal & football**  
+🏃 **Running** to stay focused  
+🎮 Gaming — *Mobile Legends*, *Valorant*, *PUBG*
 
-<img src="https://media.giphy.com/media/26gsvbLOXh92Y5RsQ/giphy.gif" width="300" alt="Game Animation"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding animation"/>
 
 <br>
 
@@ -75,15 +84,17 @@ When I’m not coding, I’m out there staying active & inspired:
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://instagram.com/junnriddo_"><img src="https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/junnriddo"><img src="https://img.shields.io/badge/GitHub-junnriddo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:junnriddo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junnriddo_)  
+[![GitHub](https://img.shields.io/badge/GitHub-junnriddo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junnriddo)  
+[![Email](https://img.shields.io/badge/Email-junnriddo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junnriddo@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/>
 
 </div>
