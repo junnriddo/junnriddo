@@ -1,4 +1,4 @@
-# <div align="center">⚡ Hey there! I'm Junn Riddo</div>
+# <div align="center">⚡ Hey there! I'm Arjoen</div>
 
 <div align="center">
   <h3>💻 Student Developer | 🎨 Creative Thinker</h3>
@@ -45,7 +45,7 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://instagram.com/junnriddo"><img src="https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/junnriddo_"><img src="https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/junnriddo"><img src="https://img.shields.io/badge/GitHub-junnriddo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:junnriddo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
