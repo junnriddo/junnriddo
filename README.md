@@ -1,52 +1,78 @@
-# <div align="center">⚡ Hey there! I'm Arjoen</div>
-
-<div align="center">
-  <h3>💻 Student Developer | 🎨 Creative Thinker</h3>
-</div>
-
-<div align="center">
-  I'm a student passionate about technology and web development.  
-  I love transforming ideas into real web experiences using <b>Laravel</b>, <b>JavaScript</b>, and <b>MySQL</b>.  
-  Always learning, always building.
-</div>
-
----
-
-### 🛠️ Tech Stack I Use
-
+<!-- Profile Header -->
 <div align="center">
 
-| 💡 | Language / Tool | Logo |
-|:--:|:----------------|:----:|
-| ⚙️ | **PHP** | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> |
-| 🔥 | **Laravel** | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> |
-| ⚡ | **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| 🐬 | **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| 🎨 | **Figma** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Arjoen+👋;Student+Developer+💻;Creative+Thinker+🎨;Future+Fullstack+Engineer+🚀" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 🌱 What I'm Currently Working On
-
-- Building projects with **Laravel** and **JavaScript**  
-- Designing creative UIs with **Figma**  
-- Exploring backend optimization and clean code architecture  
-- Improving consistency and focus in development 🚀  
-
----
-
-### 📊 My GitHub Stats
+## <div align="center">💻 About Me</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnriddo&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnriddo&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+I'm a student who loves building modern web experiences.  
+I turn ideas into interactive realities using **Laravel**, **JavaScript**, and **MySQL**.  
+Currently learning, improving, and pushing limits every day ⚡
 </div>
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,figma,html,css,git&perline=8" alt="Tech Stack" />
+  
+</div>
+
+<div align="center">
+<sub>💡 Always exploring new tools and better ways to code</sub>
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- Building dynamic apps with **Laravel + JS**
+- Designing beautiful UI in **Figma**
+- Writing cleaner and smarter code ✨
+- Leveling up every single day 💪
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=junnriddo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=junnriddo&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnriddo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+</div>
+
+---
+
+## 🎯 Outside the Code
+
+<div align="center">
+
+When I’m not coding, I’m out there staying active & inspired:
+
+⚽ **Futsal** & **Football**  
+🏃 Running to refresh my mind  
+🎮 Gaming: *Mobile Legends*, *Valorant*, *PUBG*  
+
+<img src="https://media.giphy.com/media/26gsvbLOXh92Y5RsQ/giphy.gif" width="300" alt="Game Animation"/>
+
+<br>
+
+✨ <i>"Coding and sports both teach the same thing — discipline, patience, and progress."</i> ✨  
+
+</div>
+
+---
+
+## 📫 Connect with Me
 
 <div align="center">
   <a href="https://instagram.com/junnriddo_"><img src="https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -56,18 +82,8 @@
 
 ---
 
-### 🎯 Outside the Code
-
 <div align="center">
-
-When I’m not writing code, I’m staying active and creative in other ways:  
-
-⚽ Playing **futsal** & **football**  
-🏃 Going for a **run** to clear my mind  
-🎮 Gaming — **Mobile Legends**, **Valorant**, and **PUBG**
-
-<br>
-
-✨ <i>"Coding and sports both teach the same thing — discipline, patience, and progress."</i> ✨  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/>
 
 </div>
