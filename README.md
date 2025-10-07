@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 Hi there, I’m **Arjoen Rido**
 
-<!--
-**junnriddo/junnriddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | 🎨 Creative Coder | ⚡ Digital Builder  
 
-Here are some ideas to get you started:
+I love turning ideas into something real — from design on **Figma** to fully functional web apps using **PHP (Laravel)**, **JavaScript**, and **MySQL**.  
+Code, creativity, and caffeine keep me going. ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Working On  
+- Building modern web apps with **Laravel** and **JavaScript**  
+- Designing clean interfaces with **Figma**  
+- Exploring ways to make the web more creative and alive  
+
+---
+
+### 🧠 My Tech Stack  
+
+| Category | Tools |
+|-----------|--------|
+| ⚙️ Backend | PHP · Laravel · MySQL |
+| 🎨 Frontend | HTML · CSS · JavaScript |
+| 💡 Design | Figma · UI/UX Concepts |
+| 🧰 Tools | Git · Composer · VS Code |
+
+---
+
+### 📫 Let’s Connect  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junnriddo)
+[![GitHub](https://img.shields.io/badge/GitHub-junnriddo-181717?style=for-the-badge&logo=github)](https://github.com/junnriddo)
+
+---
+
+### ⚡ Fun Fact  
+> I design on Figma in the morning, code in Laravel at night — balance achieved. ⚖️  
+
+---
+
+### 🏆 GitHub Stats  
+
+![Junn Riddo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=junnriddo&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junnriddo&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+✨ _“Build. Design. Repeat.”_ ✨
