@@ -85,7 +85,7 @@ When I’m not coding, you’ll probably find me doing things I love:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40junnriddo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junnriddo_)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40junnriddo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junnriddo_)  
 [![GitHub](https://img.shields.io/badge/GitHub-junnriddo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junnriddo)  
 [![Email](https://img.shields.io/badge/Email-junnriddo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junnriddo@gmail.com)
 
